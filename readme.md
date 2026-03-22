@@ -1,1 +1,3 @@
+EV Charge & Range Analysis Tool
 
+Developed a data-driven web application to analyze electric vehicle (EV) infrastructure and performance in the Indian market. Built interactive dashboards to visualize charging station distribution (AC vs. DC), EV range, efficiency, and pricing trends. Implemented geospatial mapping to represent EV infrastructure and enable data-driven insights. Utilized Python (Pandas, Flask) for backend development, SQL for data handling, and Tableau for advanced visualizations, along with HTML/CSS for the frontend. Designed a modular project structure with dataset integration and real-time analysis capabilities. The project supports sustainable engineering initiatives and smart city planning by improving accessibility and understanding of EV data.
